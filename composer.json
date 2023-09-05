@@ -1,0 +1,17 @@
+{
+    "name": "praise/paystack-sdk",
+    "description": "Helper classes to work with Paystack's API.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Praise\\PaystackSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Praise Dare",
+            "email": "praisedare27@gmail.com"
+        }
+    ],
+    "require": {}
+}
