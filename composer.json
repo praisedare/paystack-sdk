@@ -1,5 +1,5 @@
 {
-    "name": "praise/paystack-sdk",
+    "name": "praisedare/paystack-sdk",
     "description": "Helper classes to work with Paystack's API.",
     "type": "library",
     "autoload": {
